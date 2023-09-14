@@ -4,4 +4,6 @@ using Knooin;
 
 // Zeef.Run();
 
-GameOfLife.Run();
+// GameOfLife.Run();
+
+Les3.Run();
